@@ -1,4 +1,2 @@
-My name is Layton starks
-
-I play Foootball for Ball sate 
-
+# CS121_project_1
+getting to know me 
